@@ -23,7 +23,7 @@ fi
 : ${omg_merge_tracking_branch_symbol:=''}    # from octicons, codepoint patched in nerdfonts
 : ${omg_should_push_symbol:=''}              # from octicons, codepoint patched in nerdfonts
 : ${omg_has_stashes_symbol:=''}              # star, from fontawesome
-: ${omg_has_action_in_progress_symbol:=''}   #                    - obsolete?
+: ${omg_has_action_in_progress_symbol:=''}   # wrench, from fontawesome
 
 autoload -U colors && colors
 
